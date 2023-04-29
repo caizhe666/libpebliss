@@ -8,6 +8,8 @@ endif()
 
 project("libpebliss")
 
+include_directories("include")
+
 # 包含子项目。
 include_directories("deps/gsl/include")
 
