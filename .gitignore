@@ -1,0 +1,5 @@
+# The out put directory
+out/
+
+# The Visual Studio directory
+.vs/
