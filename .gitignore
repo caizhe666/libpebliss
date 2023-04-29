@@ -3,3 +3,6 @@ out/
 
 # The Visual Studio directory
 .vs/
+
+# CMake stuff
+CMakePresent.json
